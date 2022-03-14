@@ -1,0 +1,26 @@
+{
+	"name": "Example Library",
+	"description": "basic string transformations",
+	"version": "1.0.0",
+	"tags": [
+		"uppercase",
+		"downcase",
+		"camelcase"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "library",
+	"authors": [
+		{
+			"name": "Marcell Purham",
+			"email": "m@marcell.me",
+			"homepage": "marcell.me"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/example-library"
+		}
+	]
+}
